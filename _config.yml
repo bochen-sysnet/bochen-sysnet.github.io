@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Bo Chen"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.jpg"
   bio              : "University of Illinois at Urbana-Champaign"
   location         : "Champaign, IL"
   employer         :
@@ -43,8 +43,8 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  linkedin         : https://www.linkedin.com/in/%E5%8D%9A-%E9%99%88-8a5056124/ # e.g., "linkedin username"
+  dblp             : https://dblp.org/pid/89/5615-25.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :

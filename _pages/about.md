@@ -19,9 +19,9 @@ redirect_from:
 
 This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) working with Prof. Klara Nahrstedt. I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara Nahrstedt. Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Xinbing Wang.
 
-My primary research interests lie in building end-to-end immersive computing systems that cover the generation, delivery, rendering, and analysis of immersive content like acoustic signals, IMU sensors, images, videos, and neural representations. My past research experiences focus on bridging the gap between advanced ML techinques and practical immersive computing systems via the ML-system co-design. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My primary research interests lie in building end-to-end immersive computing systems that cover the generation, delivery, rendering, and analysis of immersive content like acoustic signals, IMU sensors, images, videos, and neural representations. My past research experiences focus on bridging the gap between advanced ML techinques and practical immersive computing systems via the ML-system co-design.
 
-I am now actively looking for tenure-track faculty positions. Feel free to ping me if you have any openings.
+I am now actively looking for tenure-track faculty positions. Feel free to ping me if you have any openings. [CV](docs/CV.pdf)
 
 
 # 🔥 News
@@ -31,7 +31,7 @@ I am now actively looking for tenure-track faculty positions. Feel free to ping 
 - *2024.01*: &nbsp;🎉🎉 Paper Accepted in ACM MMSys'24, Learning to Manage Uncertainty in Video Streaming.
 - *2023.12*: &nbsp;🎉🎉 Paper Accepted in USENIX NSDI'24, LiFteR: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,10 +64,19 @@ I am now actively looking for tenure-track faculty positions. Feel free to ping 
 - *2012.09 - 2016.06*, B.S. at Shanghai Jiao Tong University, Shanghai, China.
 - *2009.09 - 2012.06*, High school at Fuzhou No.1 High School, Fuzhou, China.
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2020.05 - 2020.08*, Student intern at Meta.
 - *2019.05 - 2019.07*, Research intern at AT&T.
+
+
+# 📖 Teaching
+- *2023*, CS 537 Advanced Topics in IOT, Teaching Assistant, University of Illinois at Urbana-Champaign.
+- *2022*, CS 537 Advanced Topics in IOT, Teaching Assistant, University of Illinois at Urbana-Champaign.
+- *2020*, CS 438 Communication Network, Teaching Assistant, University of Illinois at Urbana-Champaign.
+
+
+# 💬 Services
+- *Reviewer*, ACM MMSys'24, ICCCN'24, ACM MM'23, ACM MMSys'23. 
+- *TPC Member*, SEC'23, ImmerCOM'23.
+- *Publication Chair*, NSF Workshop on Sustainable Computing for Sustainability 2024, IEEE SECON'23. 
