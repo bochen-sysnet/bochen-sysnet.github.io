@@ -21,7 +21,7 @@ This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) 
 
 My primary research interests lie in building end-to-end immersive computing systems that cover the generation, delivery, rendering, and analysis of immersive content like acoustic signals, IMU sensors, images, videos, and neural representations. My past research experiences focus on bridging the gap between advanced ML techinques and practical immersive computing systems via the ML-system co-design.
 
-I am now actively looking for tenure-track faculty positions. Feel free to ping me if you have any openings. [CV](docs/CV.pdf)
+**I am now actively looking for tenure-track faculty positions. Feel free to ping me if you have any openings. Here is my [CV](docs/CV.pdf).**
 
 
 # 🔥 News
@@ -53,9 +53,9 @@ I am now actively looking for tenure-track faculty positions. Feel free to ping 
 
 
 # 🎖 Honors and Awards
-- *2022.6* Best Student Paper Award (ACM MMSys 2022).
+- *2022.06* Best Student Paper Award (ACM MMSys 2022).
 - *2020.12* Best Paper Award (IEEE ISM 2022).
-- *2019.6* SIGMM Travel Grant (ACM MMSys 2019).
+- *2019.06* SIGMM Travel Grant (ACM MMSys 2019).
  
 
 # 📖 Educations
