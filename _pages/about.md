@@ -50,7 +50,7 @@ My primary research interests lie in building end-to-end immersive computing sys
 - [Vesper: Learning to Manage Uncertainty in Video Streaming](https://dl.acm.org/doi/10.1145/3625468.3647621), Bo Chen, Mingyuan Wu, Hongpeng Guo, Zhisheng Yan, Klara Nahrstedt, **MMSys 2024**
 - [[Best Student Paper] Context-aware Image Compression Optimization for Visual Analytics Offloading](https://dl.acm.org/doi/10.1145/3625468.3647621), Bo Chen, Zhisheng Yan, Klara Nahrstedt, **MMSys 2022**
 - [[Best Paper Award] SEAWARE: Semantic Aware View Prediction System for 360-degree Video Streaming](https://dl.acm.org/doi/10.1145/3625468.3647621), Jounsup Park, Mingyuan Wu, Eric Lee, Bo Chen, Klara Nahrstedt, Michael Zink, Ramesh Sitaraman, **ISM 2020**
-
+- Please check the full list at [Google Scholar](https://scholar.google.com/citations?user=E8mxs2UAAAAJ) or [dblp](https://dblp.org/pid/89/5615-25.html).
 
 # 🎖 Honors and Awards
 - *2022.06* Best Student Paper Award (ACM MMSys 2022).
@@ -77,6 +77,6 @@ My primary research interests lie in building end-to-end immersive computing sys
 
 
 # 💬 Services
-- *Reviewer*, 2024: ACM MMSys, IEEE ICCCN, ACM TOMM, 2023: ACM MM, ACM MMSys, ACM TOMM. 
-- *TPC Member*, SEC'23, ImmerCOM'23.
-- *Publication Chair*, NSF Workshop on Sustainable Computing for Sustainability 2024, IEEE SECON'23. 
+- *Reviewer*, 2024: ACM MM, IEEE ICCCN, ACM TOMM, 2023: ACM MM, ACM MMSys, ACM TOMM. 
+- *TPC Member*, 2024: ACM MMSys, 2023: SEC, ImmerCOM.
+- *Publication Chair*, 2024: [NSF Workshop on Sustainable Computing for Sustainability](https://edas.info/web/nsf-wscs24/index.html), 2023: IEEE SECON. 
