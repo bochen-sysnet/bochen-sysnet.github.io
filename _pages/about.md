@@ -29,6 +29,7 @@ My primary research interests lie in building end-to-end immersive computing sys
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Paper Conditionally Accepted in ACM SenSys'24, ImmerScope: Multi-view Video Aggregation at Edge towards Immersive Content Services.
 - *2024.04*: &nbsp;🎉🎉 Invited Talk at UIUC Sys-Net Spring 2024 Retreat, NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications
 - *2024.03*: &nbsp;🎉🎉 Invited Talk at UT Dallas, Advancing Immersive Computing Systems in Age of Machine Learning.
 - *2024.03*: &nbsp;🎉🎉 Paper Accepted in ACM MobiSys'24, NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications.
