@@ -82,6 +82,6 @@ My primary research interests lie in building end-to-end immersive computing sys
 
 
 # 💬 Services
-- *Reviewer*, 2024: ACM MM, IEEE ICCCN, ACM TOMM, 2023: ACM MM, ACM MMSys, ACM TOMM. 
-- *TPC Member*, 2024: ACM MMSys, 2023: SEC, ImmerCOM.
+- *Reviewer*, 2025: ACM TOMM, IEEE TMM, 2024: ACM MM, IEEE ICCCN, ACM TOMM, 2023: ACM MM, ACM MMSys, ACM TOMM. 
+- *TPC Member*, 2025: ACM MMSys, 2024: ACM MMSys, 2023: SEC, ImmerCOM.
 - *Publication Chair*, 2024: [NSF Workshop on Sustainable Computing for Sustainability](https://edas.info/web/nsf-wscs24/index.html), 2023: IEEE SECON. 
