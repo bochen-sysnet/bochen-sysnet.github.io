@@ -19,9 +19,9 @@ redirect_from:
 
 This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) working with Prof. Klara Nahrstedt. I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara Nahrstedt. Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Xinbing Wang.
 
-My research aims to achieve an experience termed Telepresence, which allows humans to perceive remote sensory data in real-time and enables servers to analyze this data instantly. In particular, I focus on Intelligent Telepresence systems where Artificial Intelligence (AI) techniques (e.g., deep neural networks, neural rendering, and neural codecs) broke the barriers of traditional telepresence systems. My past research advocates the AI-system co-design to overcome the bandwidth, computation, and reliability challenges in building practical Intelligent Telepresence systems.
+Artificial Intelligence (AI) enhances human immersiveness by enabling humans to better perceive the world through advanced representation techniques such as \textbf{Neural Compression} and \textbf{Neural Rendering}, as well as powerful analysis methods such as \textbf{Deep Neural Networks} and \textbf{Large Language Vision Models (LLVM)} for processing real-world multimodal signals. However, AI's reliance on large volumes of data for both training and inference presents significant challenges to current transmission and computation infrastructure. My research advocates the AI-system co-design to overcome the bandwidth, computation, and reliability challenges in building practical immersive AI systems.
 
-**Research Interests: Networked systems. Multimedia systems. Machine learning systems. Mobile systems.**
+**Research Interests: Networking, operating systems, immersive/visual/spatial computing, and mobile computing.**
 
 **I am now actively looking for tenure-track faculty positions (2024-2025). Feel free to ping me if you have any openings.**
 
