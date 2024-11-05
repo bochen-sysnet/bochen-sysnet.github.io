@@ -29,6 +29,7 @@ Artificial Intelligence (AI) enhances human immersiveness by enabling humans to 
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉 Invited Talk at UM-SJTU Joint Institute, Advancing Immersive Computing with AI-System Co-design.
 - *2024.09*: &nbsp;🎉🎉 Paper Conditionally Accepted in ACM SenSys'24, ImmerScope: Multi-view Video Aggregation at Edge towards Immersive Content Services.
 - *2024.04*: &nbsp;🎉🎉 Invited Talk at UIUC Sys-Net Spring 2024 Retreat, NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications
 - *2024.03*: &nbsp;🎉🎉 Invited Talk at UT Dallas, Advancing Immersive Computing Systems in Age of Machine Learning.
@@ -50,11 +51,12 @@ Artificial Intelligence (AI) enhances human immersiveness by enabling humans to 
 </div>
 </div> -->
 
-- [LiFteR: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf), Bo Chen, Zhisheng Yan, Yinjie Zhang, Zhe Yang, Klara Nahrstedt, **NSDI 2024**
-- [NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879), Bo Chen, Zhisheng Yan, Bo Han, Klara Nahrstedt, **MobiSys 2024**
-- [Vesper: Learning to Manage Uncertainty in Video Streaming](https://dl.acm.org/doi/10.1145/3625468.3647621), Bo Chen, Mingyuan Wu, Hongpeng Guo, Zhisheng Yan, Klara Nahrstedt, **MMSys 2024**
-- [[Best Student Paper] Context-aware Image Compression Optimization for Visual Analytics Offloading](https://dl.acm.org/doi/10.1145/3625468.3647621), Bo Chen, Zhisheng Yan, Klara Nahrstedt, **MMSys 2022**, Media Coverage: [Siebel School News](https://siebelschool.illinois.edu/news/alumnus-bo-chen-wins-best-student-paper-award-from-acm-multimedia-systems-2022), [George Mason University News](https://www.gmu.edu/news/2022-11/zhisheng-yan-nabs-best-student-paper-award)
-- [[Best Paper Award] SEAWARE: Semantic Aware View Prediction System for 360-degree Video Streaming](https://dl.acm.org/doi/10.1145/3625468.3647621), Jounsup Park, Mingyuan Wu, Eric Lee, Bo Chen, Klara Nahrstedt, Michael Zink, Ramesh Sitaraman, **ISM 2020**
+- [ImmerScope: Multi-view Video Aggregation at Edge towards Immersive Content Services](https://dl.acm.org/doi/10.1145/3666025.3699324), **Bo Chen**, Hongpeng Guo, Mingyuan Wu, Zhe Yang, Zhisheng Yan, Klara Nahrstedt, **SenSys 2024**
+- [LiFteR: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf), **Bo Chen**, Zhisheng Yan, Yinjie Zhang, Zhe Yang, Klara Nahrstedt, **NSDI 2024**
+- [NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879), **Bo Chen**, Zhisheng Yan, Bo Han, Klara Nahrstedt, **MobiSys 2024**
+- [Vesper: Learning to Manage Uncertainty in Video Streaming](https://dl.acm.org/doi/10.1145/3625468.3647621), **Bo Chen**, Mingyuan Wu, Hongpeng Guo, Zhisheng Yan, Klara Nahrstedt, **MMSys 2024**
+- [[Best Student Paper] Context-aware Image Compression Optimization for Visual Analytics Offloading](https://dl.acm.org/doi/10.1145/3625468.3647621), **Bo Chen**, Zhisheng Yan, Klara Nahrstedt, **MMSys 2022**, Media Coverage: [Siebel School News](https://siebelschool.illinois.edu/news/alumnus-bo-chen-wins-best-student-paper-award-from-acm-multimedia-systems-2022), [George Mason University News](https://www.gmu.edu/news/2022-11/zhisheng-yan-nabs-best-student-paper-award)
+- [[Best Paper Award] SEAWARE: Semantic Aware View Prediction System for 360-degree Video Streaming](https://dl.acm.org/doi/10.1145/3625468.3647621), Jounsup Park, Mingyuan Wu, Eric Lee, **Bo Chen**, Klara Nahrstedt, Michael Zink, Ramesh Sitaraman, **ISM 2020**
 - Please check the full list at [Google Scholar](https://scholar.google.com/citations?user=E8mxs2UAAAAJ) or [dblp](https://dblp.org/pid/89/5615-25.html).
 
 # 🎖 Honors and Awards
