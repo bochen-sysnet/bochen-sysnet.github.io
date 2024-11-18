@@ -19,11 +19,36 @@ redirect_from:
 
 This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) working with Prof. Klara Nahrstedt. I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara Nahrstedt. Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Xinbing Wang.
 
-Artificial Intelligence (AI) enhances human immersiveness by enabling humans to better perceive the world through advanced representation techniques (e.g., Neural Compression and Neural Rendering), as well as powerful analysis methods (e.g., Deep Neural Networks and Large Language Vision Models (LLVM)) for processing real-world multimodal signals. However, AI's reliance on large volumes of data for both training and inference presents significant challenges to current transmission and computation infrastructure. My research advocates the AI-system co-design to overcome the bandwidth, computation, and reliability challenges in building practical immersive AI systems.
+Immersive computing enhances human perception by delivering remote data and analyzing it to create richer, more interactive experiences. Recent advancements in Artificial Intelligence (AI) (*i.e.*, neural representations and large models) introduce both opportunities and challenges to immersive computing. 
+
+On the one hand:
+1. **Neural representations** greatly advance data delivery with better compactness and photo-realism.
+2. **Large models** boost data analytics with the ability to correlate spatial-temporal and multimodal content.
+
+On the other hand, AI's training and inference demand unprecedented volumes of data to be collected, transmitted, and processed. Under a real-world setting with limited bandwidth, resource-constrained devices, or hazardous environments, AI-integrated immersive computing systems may fail to meet system requirements (*e.g.*, latency and frame rate). Even if they reduce the AI workload via system optimizations that downsample data or sparsify AI models, they inevitably sacrifice AI performance (*e.g.*, accuracy) by ignoring **the complex impact of system optimizations on AI models**.
+
+---
+
+### My Research: AI-System Co-Design
+
+My research advocates **AI-system co-design**, an approach that resolves the complex impact of system optimizations on AI models with two core principles:
+
+1. **System-for-AI Optimization**: *Employing system optimization techniques in software and hardware to manage data flow and computing loads while preserving AI performance*.
+2. **AI-for-System Customization**: *Customizing AI components, including neural network architecture, training processes, and inference pipelines, to mitigate the impact of system optimizations, ensuring satisfactory Quality of Experience (QoE) and accuracy of the system*.
+
+---
+
+### Research Agenda
+
+Guided by these principles, my research agenda bridges the gap between AI-integrated immersive computing systems and the real world with three key contributions:
+- **Bandwidth Efficiency**
+- **Computation Scaling**
+- **Hazard Resilience**
+
 
 **Research Interests: Networking, operating systems, immersive/visual/spatial computing, and mobile computing.**
 
-**I am now actively looking for tenure-track faculty positions (2024-2025). Feel free to ping me if you have any openings.**
+<span style="color: red; font-weight: bold;">I am now actively looking for tenure-track faculty positions (2024-2025). Feel free to ping me if you have any openings.</span>
 
 **Here is my [CV](images/CV.pdf).**
 
