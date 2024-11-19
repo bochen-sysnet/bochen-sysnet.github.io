@@ -28,16 +28,13 @@ My research advocates **AI-system co-design**, an approach that resolves the com
 1. **System-for-AI Optimization**: *Employing system optimization techniques in software and hardware to manage data flow and computing loads while preserving AI performance*.
 2. **AI-for-System Customization**: *Customizing AI components, including neural network architecture, training processes, and inference pipelines, to mitigate the impact of system optimizations, ensuring satisfactory Quality of Experience (QoE) and accuracy of the system*.
 
-Guided by these principles, my research agenda bridges the gap between AI-integrated immersive computing systems and the real world with three key contributions:
-- **Bandwidth Efficiency**
-- **Computation Scaling**
-- **Hazard Resilience**
+Guided by these principles, my research agenda bridges the gap between AI-integrated immersive computing systems and the real world with three key contributions: Bandwidth Efficiency, Computation Scaling, and Hazard Resilience**
 
 **Research Interests: Networking, operating systems, immersive/visual/spatial computing, and mobile computing.**
 
 <span style="color: red; font-weight: bold;">I am now actively looking for tenure-track faculty positions (2024-2025). Feel free to ping me if you have any openings.</span>
 
-**Here is my [CV](images/CV.pdf).**
+**Here is my [CV](images/CV.pdf).** Contact: boc2 AT illinois DOT edu
 
 
 # 🔥 News
