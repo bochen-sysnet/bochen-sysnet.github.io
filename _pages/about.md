@@ -28,7 +28,7 @@ To overcome these obstacles, my research advocates AI-system co-design, an appro
 
 Guided by these principles, my research bridges the gap between current immersive computing systems and the Metaverse, advancing Bandwidth Efficiency, Photo-realism, and Reliability.
 
-**Research Interests: Networking, operating systems, immersive/visual/spatial computing, and mobile computing.**
+**Research Interests: Networking, operating systems, virtual reality, immersive/visual/spatial computing, and mobile computing.**
 
 <span style="color: red; font-weight: bold;">I am now actively looking for tenure-track faculty positions (2024-2025). Feel free to ping me if you have any openings.</span>
 
