@@ -36,6 +36,7 @@ Guided by these principles, my research bridges the gap between current immersiv
 
 
 # 🔥 News
+- *2024.03*: &nbsp;🎉🎉 Paper Accepted in ACM MobiCom'25, NeVo: Advancing Volumetric Video Streaming with Neural Content Representation.
 - *2024.11*: &nbsp;🎉🎉 Invited Talk at UM-SJTU Joint Institute, Advancing Immersive Computing with AI-System Co-design.
 - *2024.09*: &nbsp;🎉🎉 Paper Conditionally Accepted in ACM SenSys'24, ImmerScope: Multi-view Video Aggregation at Edge towards Immersive Content Services.
 - *2024.04*: &nbsp;🎉🎉 Invited Talk at UIUC Sys-Net Spring 2024 Retreat, NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications
@@ -58,6 +59,7 @@ Guided by these principles, my research bridges the gap between current immersiv
 </div>
 </div> -->
 
+- [NeVo: Advancing Volumetric Video Streaming with Neural Content Representation], Nan Wu, **Bo Chen**, Ruizhi Cheng, Klara Nahrstedt, Bo Han, **MobiCom 2025**
 - [ImmerScope: Multi-view Video Aggregation at Edge towards Immersive Content Services](https://dl.acm.org/doi/10.1145/3666025.3699324), **Bo Chen**, Hongpeng Guo, Mingyuan Wu, Zhe Yang, Zhisheng Yan, Klara Nahrstedt, **SenSys 2024**
 - [LiFteR: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf), **Bo Chen**, Zhisheng Yan, Yinjie Zhang, Zhe Yang, Klara Nahrstedt, **NSDI 2024**
 - [NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879), **Bo Chen**, Zhisheng Yan, Bo Han, Klara Nahrstedt, **MobiSys 2024**
