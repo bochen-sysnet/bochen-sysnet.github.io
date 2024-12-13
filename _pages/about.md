@@ -19,8 +19,7 @@ redirect_from:
 
 This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) working with Prof. Klara Nahrstedt. I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara Nahrstedt. Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Xinbing Wang.
 
-The Metaverse integrates augmented reality (AR), virtual reality (VR), and the internet to create a shared, immersive, and interactive environment, enabling a wide specturm of applications.
-Despite the hype about the Metaverse, it has never become a reality. I uncover three main obstacles faced by existing immersive computing systems: (1) the exploding amount of data brought by a large virtual world, (2) the disturbing artifacts produced by existing 3D modeling techniques, and (3) the unreliable real-world environments.
+Despite the hype about the Metaverse from 2021, it has never become a reality. I uncover three main obstacles faced by existing immersive computing systems: (1) the exploding amount of data brought by a large virtual world, (2) the disturbing artifacts produced by existing 3D modeling techniques, and (3) the unreliable real-world environments.
 To overcome these obstacles, my research advocates AI-system co-design, an approach with two core principles:
 
 1. **System-for-AI Optimization**: *Identifying and employing advanced Artificial Intelligence (AI) techniques to transcend the limitation of traditional immersive computing systems*.
@@ -32,11 +31,12 @@ Guided by these principles, my research bridges the gap between current immersiv
 
 <span style="color: red; font-weight: bold;">I am now actively looking for tenure-track faculty positions (2024-2025). Feel free to ping me if you have any openings.</span>
 
-**Here is my [CV](images/CV.pdf).** Contact: boc2 AT illinois DOT edu
+**Here is my [CV](images/CV.pdf), [Research Statement](images/research-statement.pdf), [Teaching Statement](images/teaching-statement.pdf), and [Diversity Statement](images/diversity-statement.pdf).** Contact: boc2 AT illinois DOT edu
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 Paper Accepted in ACM MobiCom'25, NeVo: Advancing Volumetric Video Streaming with Neural Content Representation.
+- *2024.12*: &nbsp;🎉🎉 Paper Accepted in ACM MobiCom'25, NeVo: Advancing Volumetric Video Streaming with Neural Content Representation.
+- *2024.12*: &nbsp;🎉🎉 Invited Talk at Shanghai Jiao Tong University, Advancing Immersive Computing with AI-System Co-design.
 - *2024.11*: &nbsp;🎉🎉 Invited Talk at UM-SJTU Joint Institute, Advancing Immersive Computing with AI-System Co-design.
 - *2024.09*: &nbsp;🎉🎉 Paper Conditionally Accepted in ACM SenSys'24, ImmerScope: Multi-view Video Aggregation at Edge towards Immersive Content Services.
 - *2024.04*: &nbsp;🎉🎉 Invited Talk at UIUC Sys-Net Spring 2024 Retreat, NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications.
