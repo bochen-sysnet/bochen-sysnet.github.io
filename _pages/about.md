@@ -25,7 +25,10 @@ To overcome these obstacles, my research advocates AI-system co-design, an appro
 1. **System-for-AI Optimization**: *Identifying and employing advanced Artificial Intelligence (AI) techniques to transcend the limitation of traditional immersive computing systems*.
 2. **AI-for-System Customization**: *Customizing traditional system optimization techniques to tackle AI-induced system challenges and improve AI performance*.
 
-Guided by these principles, my research bridges the gap between current immersive computing systems and the Metaverse, advancing Bandwidth Efficiency, Photo-realism, and Reliability.
+Guided by these principles, my research bridges the gap between current immersive computing systems and the Metaverse, advancing:
+1. **Bandwidth Efficiency**: [NSDI'24](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf), [SenSys'24](https://dl.acm.org/doi/10.1145/3666025.3699324)
+2. **Photo-realism**: [MobiCom'25], [MobiSys'24](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879), 
+3. **Reliability**: [MMSys'24](https://dl.acm.org/doi/10.1145/3625468.3647621), [MIPR'24](https://ieeexplore.ieee.org/document/10707806), [ICML'23 NCW](https://arxiv.org/pdf/2403.17236)
 
 **Research Interests: Networking, operating systems, virtual reality, immersive/visual/spatial computing, and mobile computing.**
 
