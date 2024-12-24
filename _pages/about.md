@@ -23,7 +23,7 @@ Despite the hype about the Metaverse from 2021, it has never become a reality. I
 To overcome these obstacles, my research advocates AI-system co-design, an approach with two core principles:
 
 1. **AI-for-Immersion Design**: *Identifying and employing advanced Artificial Intelligence (AI) techniques to transcend the limitation of traditional immersive computing systems*.
-2. **AI-System Joint Optimization**: *Customized system techniques and AI pipelines that tackle AI-involved system challenges*.
+2. **System-for-AI Optimization**: *Customized AI pipelines with system optimization to overcome performance degradation of immersive systems*.
 
 Guided by these principles, my research bridges the gap between current immersive computing systems and the Metaverse, advancing:
 1. **Bandwidth Efficiency**: [NSDI'24](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf), [SenSys'24](https://dl.acm.org/doi/10.1145/3666025.3699324)
