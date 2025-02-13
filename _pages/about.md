@@ -19,11 +19,10 @@ redirect_from:
 
 This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) working with Prof. Klara Nahrstedt. I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara Nahrstedt. Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Xinbing Wang.
 
-Despite the hype about the Metaverse from 2021, it has never become a reality. I uncover three main obstacles faced by existing immersive computing systems: (1) the exploding amount of data brought by a large virtual world, (2) the disturbing artifacts produced by existing 3D modeling techniques, and (3) the unreliable real-world environments.
-To overcome these obstacles, my research advocates AI-system co-design, an approach with two core principles:
+Immersive computing integrates AR, VR, and system techniques to create seamless, interactive digital environments. However, existing immersive system suffer from a loose coupling problem where processing modules are local optimal and data is discrete, leading to inefficiency and artifacts. To overcome these obstacles, my research advocates AI-system co-design to advance immersive computing, an approach with two core principles:
 
-1. **AI-for-Immersion Design**: *Identifying and employing advanced Artificial Intelligence (AI) techniques to transcend the limitation of traditional immersive computing systems*.
-2. **System-for-AI Optimization**: *Customized AI pipelines with system optimization to overcome performance degradation of immersive systems*.
+1. **AI-for-Immersion Insight**: *Identifying insights from Artificial Intelligence (AI) techniques to overcome the limitation of traditional immersive computing systems*.
+2. **AI-System Joint Design**: *Customized system optimization and adapt AI architecture or training to overcome performance degradation of AI systems*.
 
 Guided by these principles, my research bridges the gap between current immersive computing systems and the Metaverse, advancing:
 1. **Bandwidth Efficiency**: [NSDI'24](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf), [SenSys'24](https://dl.acm.org/doi/10.1145/3666025.3699324)
@@ -67,8 +66,8 @@ Guided by these principles, my research bridges the gap between current immersiv
 - [LiFteR: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf), **Bo Chen**, Zhisheng Yan, Yinjie Zhang, Zhe Yang, Klara Nahrstedt, **NSDI 2024**
 - [NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879), **Bo Chen**, Zhisheng Yan, Bo Han, Klara Nahrstedt, **MobiSys 2024**
 - [Vesper: Learning to Manage Uncertainty in Video Streaming](https://dl.acm.org/doi/10.1145/3625468.3647621), **Bo Chen**, Mingyuan Wu, Hongpeng Guo, Zhisheng Yan, Klara Nahrstedt, **MMSys 2024**
-- [[Best Student Paper] Context-aware Image Compression Optimization for Visual Analytics Offloading](https://dl.acm.org/doi/10.1145/3625468.3647621), **Bo Chen**, Zhisheng Yan, Klara Nahrstedt, **MMSys 2022**, Media Coverage: [Siebel School News](https://siebelschool.illinois.edu/news/alumnus-bo-chen-wins-best-student-paper-award-from-acm-multimedia-systems-2022), [George Mason University News](https://www.gmu.edu/news/2022-11/zhisheng-yan-nabs-best-student-paper-award)
-- [[Best Paper Award] SEAWARE: Semantic Aware View Prediction System for 360-degree Video Streaming](https://dl.acm.org/doi/10.1145/3625468.3647621), Jounsup Park, Mingyuan Wu, Eric Lee, **Bo Chen**, Klara Nahrstedt, Michael Zink, Ramesh Sitaraman, **ISM 2020**
+- [[Best Student Paper] Context-aware Image Compression Optimization for Visual Analytics Offloading](https://dl.acm.org/doi/10.1145/3524273.3528178), **Bo Chen**, Zhisheng Yan, Klara Nahrstedt, **MMSys 2022**, Media Coverage: [Siebel School News](https://siebelschool.illinois.edu/news/alumnus-bo-chen-wins-best-student-paper-award-from-acm-multimedia-systems-2022), [George Mason University News](https://www.gmu.edu/news/2022-11/zhisheng-yan-nabs-best-student-paper-award)
+- [[Best Paper Award] SEAWARE: Semantic Aware View Prediction System for 360-degree Video Streaming](https://ieeexplore.ieee.org/document/9327920), Jounsup Park, Mingyuan Wu, Eric Lee, **Bo Chen**, Klara Nahrstedt, Michael Zink, Ramesh Sitaraman, **ISM 2020**
 - Please check the full list at [Google Scholar](https://scholar.google.com/citations?user=E8mxs2UAAAAJ) or [dblp](https://dblp.org/pid/89/5615-25.html).
 
 # 🎖 Honors and Awards
