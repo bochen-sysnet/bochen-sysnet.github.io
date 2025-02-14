@@ -1,5 +1,5 @@
 ---
-layout: other
+layout: resources
 title: "Immersive Computing Resources"
 permalink: /resources/
 ---
