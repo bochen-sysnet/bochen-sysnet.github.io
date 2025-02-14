@@ -1,21 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>{{ page.title }}</title>
-    <!-- Pull in your main stylesheet or theme CSS -->
+    <!-- Include your main site stylesheet -->
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   </head>
   <body>
-    
-    <!-- Centering container -->
-    <div style="max-width: 800px; margin: 0 auto; text-align: center;">
-      
+
+    <!-- Centered container, left-aligned text -->
+    <div style="max-width: 900px; margin: 0 auto; text-align: left; padding: 1em;">
       <main>
         {{ content }}
       </main>
-      
     </div>
-    
+
   </body>
 </html>
