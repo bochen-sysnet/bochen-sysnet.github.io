@@ -70,6 +70,7 @@ Guided by these principles, my research bridges the gap between current immersiv
 - [[Best Paper Award] SEAWARE: Semantic Aware View Prediction System for 360-degree Video Streaming](https://ieeexplore.ieee.org/document/9327920), Jounsup Park, Mingyuan Wu, Eric Lee, **Bo Chen**, Klara Nahrstedt, Michael Zink, Ramesh Sitaraman, **ISM 2020**
 - Please check the full list at [Google Scholar](https://scholar.google.com/citations?user=E8mxs2UAAAAJ) or [dblp](https://dblp.org/pid/89/5615-25.html).
 
+
 # 🎖 Honors and Awards
 - *2022.06* Best Student Paper Award (ACM MMSys 2022).
 - *2020.12* Best Paper Award (IEEE ISM 2022).
