@@ -35,6 +35,8 @@ Guided by these principles, my research bridges the gap between current immersiv
 
 **Here is my [CV](images/CV.pdf), [Research Statement](images/research-statement.pdf), [Teaching Statement](images/teaching-statement.pdf), and [Diversity Statement](images/diversity-statement.pdf).** Contact: boc2 AT illinois DOT edu
 
+I have compiled a list of useful resources for a tentative course on immersive computing with AI-system co-design [here](/resources/).
+
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Paper Accepted in ACM MobiCom'25, NeVo: Advancing Volumetric Video Streaming with Neural Content Representation.

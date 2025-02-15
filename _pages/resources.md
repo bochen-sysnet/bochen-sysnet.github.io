@@ -22,6 +22,8 @@ Below is a compiled list of resources that can be useful for immersive computing
 ## Immersive Datasets
 
 ### 2D
+- **<a href="https://r0k.us/graphics/kodak/">Kodak True Color Image Dataset</a>** A standard test suite for image compression testing.
+
 - **<a href="https://ultravideo.fi/dataset.html">Ultra Video Group (UVG) 4k Video Dataset</a>**  A collection of high-resolution (4K) video sequences suitable for compression and quality assessment research.
 
 - **<a href="https://mcl.usc.edu/mcl-jcv-dataset/">USCMediaCommLab 2k Video Dataset</a>**  Video dataset featuring 2K resolution clips, often used for benchmarking video processing algorithms.
@@ -50,6 +52,8 @@ Below is a compiled list of resources that can be useful for immersive computing
 - **<a href="https://interdigitalinc.github.io/CompressAI/">CompressAI</a>**  A library and tools for end-to-end compression research using machine learning.
 
 - **<a href="https://www.ffmpeg.org/">FFMPEG</a>**  A complete, cross-platform solution to record, convert and stream audio and video.
+
+- **<a href="https://gitlab.com/AOMediaCodec/SVT-AV1">SVT-AV1 Encoder</a>**  The Scalable Video Technology for AV1 (SVT-AV1 Encoder) is an AV1-compliant software encoder library.
 
 - **<a href="http://hevc.info/mvhevc">Multiview High Efficiency Video Coding (MV-HEVC)</a>**  Extensions of HEVC for encoding multi-view video content.
 
@@ -101,4 +105,6 @@ Below is a compiled list of resources that can be useful for immersive computing
 ## Network Traces
 - **<a href="https://www.fcc.gov/reports-research/reports/measuring-broadband-america">Federal Communications Commission</a>** Broadband performance measurement data from various U.S. ISPs.
 
-- **<a href="https://github.com/hkust-spark/ns3-sparkrtc/blob/f7025dffd2f3ef1bfeeb6c142601833ca98cec4d/examples/sample.tr">Interactive Video Streaming (ns3-sparkrtc)</a>**  Example traces for interactive video streaming in ns-3 simulations.
+- **<a href="https://www.fcc.gov/reports-research/reports/measuring-broadband-america">3G/HSDPA Mobile Dataset</a>** Commute Path Bandwidth Traces from 3G Networks.
+
+- **<a href="https://github.com/hkust-spark/ns3-sparkrtc/blob/f7025dffd2f3ef1bfeeb6c142601833ca98cec4d/examples/sample.tr">Interactive Video Streaming</a>**  Example traces for interactive video streaming.
