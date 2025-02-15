@@ -8,9 +8,6 @@ Below is a compiled list of resources that can be useful for immersive computing
 
 ## Table of Contents
 1. [Immersive Datasets](#immersive-datasets)
-   - [2D](#2d)
-   - [Multiview](#multiview)
-   - [NeRF/GS](#nerfgs)
 2. [Immersive Computing Toolbox](#immersive-computing-toolbox)
 3. [Optimization Toolbox](#optimization-toolbox)
 4. [Simulator/Emulator](#simulatoremulator)
@@ -21,14 +18,14 @@ Below is a compiled list of resources that can be useful for immersive computing
 
 ## Immersive Datasets
 
-### 2D
+### 2D Image/Video
 - **<a href="https://r0k.us/graphics/kodak/">Kodak True Color Image Dataset</a>** A standard test suite for image compression testing.
 
 - **<a href="https://ultravideo.fi/dataset.html">Ultra Video Group (UVG) 4k Video Dataset</a>**  A collection of high-resolution (4K) video sequences suitable for compression and quality assessment research.
 
 - **<a href="https://mcl.usc.edu/mcl-jcv-dataset/">USCMediaCommLab 2k Video Dataset</a>**  Video dataset featuring 2K resolution clips, often used for benchmarking video processing algorithms.
 
-### Multiview
+### Multiview Image/Video
 - **<a href="https://www.epfl.ch/labs/cvlab/data/data-wildtrack/">WILDTRACK Seven-Camera HD Dataset</a>**  A 7-camera HD dataset for multi-view detection in real environments.
 
 - **<a href="https://iccv2021-mmp.github.io/">Multi-camera Multiple People Tracking Dataset</a>**  Focused on multi-camera tracking of multiple people in challenging scenarios.
@@ -37,7 +34,7 @@ Below is a compiled list of resources that can be useful for immersive computing
 
 - **<a href="https://assembly-101.github.io">Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities</a>**  Multi-view dataset for detailed activity understanding and video analysis tasks.
 
-### NeRF/GS
+### NeRF/GS Static or Dynamic Scene
 - **<a href="https://github.com/facebookresearch/Neural_3D_Video">Neural 3D Video Synthesis Dataset</a>**  A dataset from Facebook Research for neural 3D video synthesis approaches.
 
 - **<a href="https://www.matthewtancik.com/nerf">Synthetic 360-degree scenes</a>**  Synthetic environments used for NeRF training and evaluation.
@@ -45,6 +42,9 @@ Below is a compiled list of resources that can be useful for immersive computing
 - **<a href="https://github.com/Fyusion/LLFF">Forward-facing scenes</a>**  Commonly used for light field and NeRF-based reconstructions.
 
 - **<a href="https://jonbarron.info/mipnerf360/">Unbounded 360-degree outdoor scenes</a>**  Outdoor 360-degree scenes for NeRF training in unbounded environments.
+
+- **<a href="https://github.com/aoliao12138/ReRF_Dataset">ReRF</a>**  Three multi-view videos for kpop, box, and sing scenarios.
+
 
 ---
 
@@ -105,8 +105,12 @@ Below is a compiled list of resources that can be useful for immersive computing
 ---
 
 ## Network Traces
-- **<a href="https://www.fcc.gov/reports-research/reports/measuring-broadband-america">Federal Communications Commission</a>** Broadband performance measurement data from various U.S. ISPs.
+- **<a href="https://www.fcc.gov/reports-research/reports/measuring-broadband-america">Federal Communications Commission</a>**: Broadband performance measurement data from various U.S. ISPs.
 
-- **<a href="https://www.fcc.gov/reports-research/reports/measuring-broadband-america">3G/HSDPA Mobile Dataset</a>** Commute Path Bandwidth Traces from 3G Networks.
+- **<a href="https://www.fcc.gov/reports-research/reports/measuring-broadband-america">3G/HSDPA Mobile Dataset</a>**: Commute Path Bandwidth Traces from 3G Networks.
 
-- **<a href="https://github.com/hkust-spark/ns3-sparkrtc/blob/f7025dffd2f3ef1bfeeb6c142601833ca98cec4d/examples/sample.tr">Interactive Video Streaming</a>**  Example traces for interactive video streaming.
+- **<a href="https://github.com/GreenLv/Lumos">Lumos</a>**: A dataset about the throughput and delivery time of adaptive video streaming, which was collected in real-world mobile networks from December 2019 to May 2021.
+
+- **<a href="https://puffer.stanford.edu/data-description/">Puffer</a>**: Anonymized video sessions and telemetry data from real Puffer users.
+
+- **<a href="https://github.com/hkust-spark/ns3-sparkrtc/blob/f7025dffd2f3ef1bfeeb6c142601833ca98cec4d/examples/sample.tr">Interactive Video Streaming</a>**:  Example traces for interactive video streaming.
