@@ -53,6 +53,8 @@ Below is a compiled list of resources that can be useful for immersive computing
 
 - **<a href="https://www.ffmpeg.org/">FFMPEG</a>**  A complete, cross-platform solution to record, convert and stream audio and video.
 
+- **<a href="https://bellard.org/bpg/">BPG</a>**  BPG (Better Portable Graphics) is a new image format. Its purpose is to replace the JPEG image format when quality or file size is an issue.
+
 - **<a href="https://gitlab.com/AOMediaCodec/SVT-AV1">SVT-AV1 Encoder</a>**  The Scalable Video Technology for AV1 (SVT-AV1 Encoder) is an AV1-compliant software encoder library.
 
 - **<a href="http://hevc.info/mvhevc">Multiview High Efficiency Video Coding (MV-HEVC)</a>**  Extensions of HEVC for encoding multi-view video content.
