@@ -19,85 +19,89 @@ Below is a compiled list of resources that can be useful for immersive computing
 ## Immersive Datasets
 
 ### 2D Image/Video
-- **<a href="https://r0k.us/graphics/kodak/">Kodak True Color Image Dataset</a>** A standard test suite for image compression testing.
+- **<a href="https://r0k.us/graphics/kodak/">Kodak True Color Image Dataset</a>**: A standard test suite for image compression testing.
 
-- **<a href="https://ultravideo.fi/dataset.html">Ultra Video Group (UVG) 4k Video Dataset</a>**  A collection of high-resolution (4K) video sequences suitable for compression and quality assessment research.
+- **<a href="https://ultravideo.fi/dataset.html">Ultra Video Group (UVG) 4k Video Dataset</a>**:  A collection of high-resolution (4K) video sequences suitable for compression and quality assessment research.
 
-- **<a href="https://mcl.usc.edu/mcl-jcv-dataset/">USCMediaCommLab 2k Video Dataset</a>**  Video dataset featuring 2K resolution clips, often used for benchmarking video processing algorithms.
+- **<a href="https://mcl.usc.edu/mcl-jcv-dataset/">USCMediaCommLab 2k Video Dataset</a>**:  Video dataset featuring 2K resolution clips, often used for benchmarking video processing algorithms.
 
 ### Multiview Image/Video
-- **<a href="https://www.epfl.ch/labs/cvlab/data/data-wildtrack/">WILDTRACK Seven-Camera HD Dataset</a>**  A 7-camera HD dataset for multi-view detection in real environments.
+- **<a href="https://www.epfl.ch/labs/cvlab/data/data-wildtrack/">WILDTRACK Seven-Camera HD Dataset</a>**:  A 7-camera HD dataset for multi-view detection in real environments.
 
-- **<a href="https://iccv2021-mmp.github.io/">Multi-camera Multiple People Tracking Dataset</a>**  Focused on multi-camera tracking of multiple people in challenging scenarios.
+- **<a href="https://iccv2021-mmp.github.io/">Multi-camera Multiple People Tracking Dataset</a>**:  Focused on multi-camera tracking of multiple people in challenging scenarios.
 
-- **<a href="https://exposing.ai/duke_mtmc/">Duke Multi-Target Multi-Camera Tracking Dataset</a>**  A large-scale multi-camera tracking dataset often used in person re-identification.
+- **<a href="https://exposing.ai/duke_mtmc/">Duke Multi-Target Multi-Camera Tracking Dataset</a>**:  A large-scale multi-camera tracking dataset often used in person re-identification.
 
-- **<a href="https://assembly-101.github.io">Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities</a>**  Multi-view dataset for detailed activity understanding and video analysis tasks.
+- **<a href="https://assembly-101.github.io">Assembly101</a>**:  A large-scale multi-view video dataset for understanding procedural activities.
 
 ### Volumetric
-- **<a href="https://github.com/ytrock/THuman2.0-Dataset">THUman2.1 Dataset</a>**  High-quality human scans captured by a dense DLSR rig.
+- **<a href="https://github.com/ytrock/THuman2.0-Dataset">THUman2.1 Dataset</a>**:  High-quality human scans captured by a dense DLSR rig.
+
+- **<a href="https://github.com/zhengyuf/PointAvatar">PointAvatar</a>**:  The PointAvatar dataset provides preprocessed 3D head avatar data, including synchronized video frames and mesh information.
+
+- **<a href="https://github.com/philgras/neural-head-avatars">NHA</a>**:  The Neural Head Avatars dataset includes preprocessed training data, head tracking results, and optimized head avatars for two subjects.
 
 
 ### NeRF/GS Static or Dynamic Scene
-- **<a href="https://github.com/facebookresearch/Neural_3D_Video">Neural 3D Video Synthesis Dataset</a>**  A dataset from Facebook Research for neural 3D video synthesis approaches.
+- **<a href="https://github.com/facebookresearch/Neural_3D_Video">Neural 3D Video Synthesis Dataset</a>**:  A dataset from Facebook Research for neural 3D video synthesis approaches.
 
-- **<a href="https://www.matthewtancik.com/nerf">Synthetic 360-degree scenes</a>**  Synthetic environments used for NeRF training and evaluation.
+- **<a href="https://www.matthewtancik.com/nerf">Synthetic 360-degree scenes</a>**:  Synthetic environments used for NeRF training and evaluation.
 
-- **<a href="https://github.com/Fyusion/LLFF">Forward-facing scenes</a>**  Commonly used for light field and NeRF-based reconstructions.
+- **<a href="https://github.com/Fyusion/LLFF">Forward-facing scenes</a>**:  Commonly used for light field and NeRF-based reconstructions.
 
-- **<a href="https://jonbarron.info/mipnerf360/">Unbounded 360-degree outdoor scenes</a>**  Outdoor 360-degree scenes for NeRF training in unbounded environments.
+- **<a href="https://jonbarron.info/mipnerf360/">Unbounded 360-degree outdoor scenes</a>**:  Outdoor 360-degree scenes for NeRF training in unbounded environments.
 
-- **<a href="https://github.com/tobias-kirschstein/nersemble-data">NeRSemble Dataset</a>**  The NeRSemble Dataset is a large-scale multi-view video dataset of facial performances.
+- **<a href="https://github.com/tobias-kirschstein/nersemble-data">NeRSemble Dataset</a>**:  The NeRSemble Dataset is a large-scale multi-view video dataset of facial performances.
 
-- **<a href="https://github.com/aoliao12138/ReRF_Dataset">ReRF</a>**  Three multi-view videos for kpop, box, and sing scenarios.
+- **<a href="https://github.com/aoliao12138/ReRF_Dataset">ReRF</a>**:  Three multi-view videos for kpop, box, and sing scenarios.
 
 
 ---
 
 ## Immersive Computing Toolbox
-- **<a href="https://interdigitalinc.github.io/CompressAI/">CompressAI</a>**  A library and tools for end-to-end compression research using machine learning.
+- **<a href="https://interdigitalinc.github.io/CompressAI/">CompressAI</a>**:  A library and tools for end-to-end compression research using machine learning.
 
-- **<a href="https://www.ffmpeg.org/">FFMPEG</a>**  A complete, cross-platform solution to record, convert and stream audio and video.
+- **<a href="https://www.ffmpeg.org/">FFMPEG</a>**:  A complete, cross-platform solution to record, convert and stream audio and video.
 
-- **<a href="https://bellard.org/bpg/">BPG</a>**  BPG (Better Portable Graphics) is a new image format. Its purpose is to replace the JPEG image format when quality or file size is an issue.
+- **<a href="https://bellard.org/bpg/">BPG</a>**:  BPG (Better Portable Graphics) is a new image format. Its purpose is to replace the JPEG image format when quality or file size is an issue.
 
-- **<a href="https://gitlab.com/AOMediaCodec/SVT-AV1">SVT-AV1 Encoder</a>**  The Scalable Video Technology for AV1 (SVT-AV1 Encoder) is an AV1-compliant software encoder library.
+- **<a href="https://gitlab.com/AOMediaCodec/SVT-AV1">SVT-AV1 Encoder</a>**:  The Scalable Video Technology for AV1 (SVT-AV1 Encoder) is an AV1-compliant software encoder library.
 
-- **<a href="http://hevc.info/mvhevc">Multiview High Efficiency Video Coding (MV-HEVC)</a>**  Extensions of HEVC for encoding multi-view video content.
+- **<a href="http://hevc.info/mvhevc">Multiview High Efficiency Video Coding (MV-HEVC)</a>**:  Extensions of HEVC for encoding multi-view video content.
 
-- **<a href="https://github.com/google/draco">DRACO 3D Data Compression</a>**  A library for compressing and decompressing 3D geometric meshes and point clouds.
+- **<a href="https://github.com/google/draco">DRACO 3D Data Compression</a>**:  A library for compressing and decompressing 3D geometric meshes and point clouds.
 
-- **<a href="https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM">VVC Reference Software</a>**  The official reference software for the Versatile Video Coding standard.
+- **<a href="https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM">VVC Reference Software</a>**:  The official reference software for the Versatile Video Coding standard.
 
-- **<a href="https://github.com/Netflix/vmaf">Video Multi-Method Assessment Fusion (VMAF)</a>**  A perceptual video quality assessment algorithm developed by Netflix.
+- **<a href="https://github.com/Netflix/vmaf">Video Multi-Method Assessment Fusion (VMAF)</a>**:  A perceptual video quality assessment algorithm developed by Netflix.
 
-- **<a href="https://github.com/richzhang/PerceptualSimilarity">Learned Perceptual Image Patch Similarity Metric (LPIPS)</a>**  A metric for perceptual image patch similarity using deep features.
+- **<a href="https://github.com/richzhang/PerceptualSimilarity">Learned Perceptual Image Patch Similarity Metric (LPIPS)</a>**:  A metric for perceptual image patch similarity using deep features.
 
-- **<a href="https://docs.nerf.studio/">nerfstudio</a>**  A simplified end-to-end framework for creating, training, and testing Neural Radiance Fields.
+- **<a href="https://docs.nerf.studio/">nerfstudio</a>**:  A simplified end-to-end framework for creating, training, and testing Neural Radiance Fields.
 
-- **<a href="https://docs.gsplat.studio/main/">gsplat</a>**  Tools and documentation for generating 3D scenes via splatting techniques.
+- **<a href="https://docs.gsplat.studio/main/">gsplat</a>**:  Tools and documentation for generating 3D scenes via splatting techniques.
 
 ---
 
 ## Optimization Toolbox
-- **<a href="https://github.com/bayesian-optimization/BayesianOptimization">Bayesian Optimization</a>**  A Python library for Bayesian optimization of black-box functions.
+- **<a href="https://github.com/bayesian-optimization/BayesianOptimization">Bayesian Optimization</a>**:  A Python library for Bayesian optimization of black-box functions.
 
-- **<a href="https://github.com/ppgaluzio/MOBOpt">Multi-objective Bayesian Optimization (MOBOpt)</a>**  A library for multi-objective Bayesian optimization in Python.
+- **<a href="https://github.com/ppgaluzio/MOBOpt">Multi-objective Bayesian Optimization (MOBOpt)</a>**:  A library for multi-objective Bayesian optimization in Python.
 
-- **<a href="https://pymoo.org/">pymoo: Multi-objective Optimization in Python</a>**  A framework that supports multi-objective optimization, genetic algorithms, and more.
+- **<a href="https://pymoo.org/">pymoo: Multi-objective Optimization in Python</a>**:  A framework that supports multi-objective optimization, genetic algorithms, and more.
 
-- **<a href="https://www.gurobi.com/">Gurobi</a>**  A state-of-the-art solver for linear, integer, and quadratic programming.
+- **<a href="https://www.gurobi.com/">Gurobi</a>**:  A state-of-the-art solver for linear, integer, and quadratic programming.
 
 ---
 
 ## Simulator/Emulator
-- **<a href="http://mahimahi.mit.edu/">Mahimahi</a>**  A tool for recording and replaying HTTP traffic over emulated network conditions.
+- **<a href="http://mahimahi.mit.edu/">Mahimahi</a>**:  A tool for recording and replaying HTTP traffic over emulated network conditions.
 
-- **<a href="https://www.nsnam.org/">ns-3</a>**  A discrete-event network simulator used for internet systems research and education.
+- **<a href="https://www.nsnam.org/">ns-3</a>**:  A discrete-event network simulator used for internet systems research and education.
 
-- **<a href="https://man7.org/linux/man-pages/man8/tc.8.html">tc</a>**  A Linux command for controlling network traffic and simulating latency, loss, and bottlenecks.
+- **<a href="https://man7.org/linux/man-pages/man8/tc.8.html">tc</a>**:  A Linux command for controlling network traffic and simulating latency, loss, and bottlenecks.
 
-- **<a href="https://github.com/akamai/cell-emulation-util?tab=readme-ov-file">cell-emulation-util</a>**  A script based on Linux TC netem to emulate the latency, loss, and bandwidth of a real-world cellular network.
+- **<a href="https://github.com/akamai/cell-emulation-util?tab=readme-ov-file">cell-emulation-util</a>**:  A script based on Linux TC netem to emulate the latency, loss, and bandwidth of a real-world cellular network.
 
 ---
 
