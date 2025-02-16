@@ -34,6 +34,10 @@ Below is a compiled list of resources that can be useful for immersive computing
 
 - **<a href="https://assembly-101.github.io">Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities</a>**  Multi-view dataset for detailed activity understanding and video analysis tasks.
 
+### Volumetric
+- **<a href="https://github.com/ytrock/THuman2.0-Dataset">THUman2.1 Dataset</a>**  High-quality human scans captured by a dense DLSR rig.
+
+
 ### NeRF/GS Static or Dynamic Scene
 - **<a href="https://github.com/facebookresearch/Neural_3D_Video">Neural 3D Video Synthesis Dataset</a>**  A dataset from Facebook Research for neural 3D video synthesis approaches.
 
@@ -42,6 +46,8 @@ Below is a compiled list of resources that can be useful for immersive computing
 - **<a href="https://github.com/Fyusion/LLFF">Forward-facing scenes</a>**  Commonly used for light field and NeRF-based reconstructions.
 
 - **<a href="https://jonbarron.info/mipnerf360/">Unbounded 360-degree outdoor scenes</a>**  Outdoor 360-degree scenes for NeRF training in unbounded environments.
+
+- **<a href="https://github.com/tobias-kirschstein/nersemble-data">NeRSemble Dataset</a>**  The NeRSemble Dataset is a large-scale multi-view video dataset of facial performances.
 
 - **<a href="https://github.com/aoliao12138/ReRF_Dataset">ReRF</a>**  Three multi-view videos for kpop, box, and sing scenarios.
 
@@ -91,23 +97,29 @@ Below is a compiled list of resources that can be useful for immersive computing
 
 - **<a href="https://man7.org/linux/man-pages/man8/tc.8.html">tc</a>**  A Linux command for controlling network traffic and simulating latency, loss, and bottlenecks.
 
+- **<a href="https://github.com/akamai/cell-emulation-util?tab=readme-ov-file">cell-emulation-util</a>**  A script based on Linux TC netem to emulate the latency, loss, and bandwidth of a real-world cellular network.
+
 ---
 
 ## Testbeds
-- **<a href="https://www.emulab.net/portal/frontpage.php">Emulab</a>**  A network testbed that allows researchers to run experiments on various environments.
+- **<a href="https://www.emulab.net/portal/frontpage.php">Emulab</a>**:  A network testbed that allows researchers to run experiments on various environments.
 
-- **<a href="https://www.cloudlab.us/">Cloudlab</a>**  A flexible infrastructure allowing cloud computing research on diverse hardware.
+- **<a href="https://www.cloudlab.us/">Cloudlab</a>**:  A flexible infrastructure allowing cloud computing research on diverse hardware.
 
-- **<a href="https://console.cloud.google.com/">Google Cloud</a>**  A public cloud platform providing a range of services for computing, storage, machine learning, etc.
+- **<a href="https://console.cloud.google.com/">Google Cloud</a>**:  A public cloud platform providing a range of services for computing, storage, machine learning, etc.
 
-- **<a href="https://aws.amazon.com/">Amazon AWS</a>**  On-demand cloud computing platforms and APIs by Amazon.
+- **<a href="https://aws.amazon.com/">Amazon AWS</a>**:  On-demand cloud computing platforms and APIs by Amazon.
+
+- **<a href="https://github.com/ILLIXR/ILLIXR">ILLIXR</a>**:  Illinois Extended Reality testbed or ILLIXR is the first fully open-source Extended Reality (XR) system and testbed.
 
 ---
 
 ## Network Traces
 - **<a href="https://www.fcc.gov/reports-research/reports/measuring-broadband-america">Federal Communications Commission</a>**: Broadband performance measurement data from various U.S. ISPs.
 
-- **<a href="https://www.fcc.gov/reports-research/reports/measuring-broadband-america">3G/HSDPA Mobile Dataset</a>**: Commute Path Bandwidth Traces from 3G Networks.
+- **<a href="https://qualinet.github.io/databases/commute_path_bandwidth_traces_from_3g_networks/">3G/HSDPA Mobile Dataset</a>**: Commute Path Bandwidth Traces from 3G Networks.
+
+- **<a href="https://github.com/ravinet/mahimahi/tree/master/traces">Mahimahi Cellular</a>**: These trace files represent the time-varying capacity of U.S. cellular networks as experienced by a mobile user.
 
 - **<a href="https://github.com/GreenLv/Lumos">Lumos</a>**: A dataset about the throughput and delivery time of adaptive video streaming, which was collected in real-world mobile networks from December 2019 to May 2021.
 
