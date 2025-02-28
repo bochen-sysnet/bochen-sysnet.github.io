@@ -19,12 +19,12 @@ redirect_from:
 
 This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) working with Prof. Klara Nahrstedt. I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara Nahrstedt. Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Xinbing Wang.
 
-Immersive computing integrates AR, VR, and system techniques to create seamless, interactive digital environments. However, existing immersive system suffer from a loose coupling problem where processing modules are local optimal and data is discrete, leading to inefficiency and artifacts. To overcome these obstacles, my research advocates AI-system co-design to advance immersive computing, an approach with two core principles:
+I build immersive computing systems that facilitate advanced Artificial Intelligence (AI) models with AI-system co-design, an approach with two core principles:
 
 1. **AI-for-Immersion Insight**: *Identifying insights from Artificial Intelligence (AI) techniques to overcome the limitation of traditional immersive computing systems*.
 2. **AI-System Joint Design**: *Customized system optimization and adapt AI architecture or training to overcome performance degradation of AI systems*.
 
-Guided by these principles, my research bridges the gap between current immersive computing systems and the Metaverse, advancing:
+Guided by these principles, my research advances current immersive computing systems in:
 1. **Bandwidth Efficiency**: [NSDI'24](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf), [SenSys'24](https://dl.acm.org/doi/10.1145/3666025.3699324)
 2. **Photo-realism**: [MobiCom'25](https://www.sigmobile.org/mobicom/2025/cfp.html), [MobiSys'24](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879), 
 3. **Reliability**: [MMSys'24](https://dl.acm.org/doi/10.1145/3625468.3647621), [MIPR'24](https://ieeexplore.ieee.org/document/10707806), [ICML'23 NCW](https://arxiv.org/pdf/2403.17236)
