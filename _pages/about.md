@@ -33,7 +33,7 @@ Guided by the AI-system co-design, my research advances current immersive comput
 
 <span style="color: red; font-weight: bold;">I am now actively looking for tenure-track faculty positions (2024-2025). Feel free to ping me if you have any openings.</span>
 
-**Here is my [CV](images/CV.pdf), [Research Statement](images/research-statement.pdf), [Teaching Statement](images/teaching-statement.pdf), and [Diversity Statement](images/diversity-statement.pdf).** Contact: boc2 AT illinois DOT edu
+**Here is my [CV](images/CV.pdf), [Research Statement](images/research-statement.pdf), and [Teaching Statement](images/teaching-statement.pdf).** Contact: boc2 AT illinois DOT edu
 
 I have compiled a list of useful resources for a tentative course on **"immersive computing with AI-system co-design"** [here](/resources/).
 
