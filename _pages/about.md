@@ -31,7 +31,7 @@ Guided by the AI-system co-design, my research advances current immersive comput
 
 **Research Interests: Networking, operating systems, virtual reality, immersive/visual/spatial computing, and mobile computing.**
 
-<span style="color: red; font-weight: bold;">I am now actively looking for tenure-track faculty positions (2024-2025). Feel free to ping me if you have any openings.</span>
+<span style="color: red; font-weight: bold;">I am now on job market (2024-2025). Feel free to ping me if you have any openings.</span>
 
 **Here is my [CV](images/CV.pdf), [Research Statement](images/research-statement.pdf), and [Teaching Statement](images/teaching-statement.pdf).** Contact: boc2 AT illinois DOT edu
 
