@@ -82,7 +82,7 @@ I have compiled a list of useful resources for a tentative course on **"immersiv
  
 
 # 📖 Educations
-- *2022.07 - 2024.04 (now)*, Postdoctoral Research Associate at University of Illinois at Urbana-Champaign, Champaign, IL, USA.
+- *2022.07 - 2025.03 (now)*, Postdoctoral Research Associate at University of Illinois at Urbana-Champaign, Champaign, IL, USA.
 - *2016.09 - 2022.05*, Ph.D. at University of Illinois at Urbana-Champaign, Champaign, IL, USA.
 - *2012.09 - 2016.06*, B.S. at Shanghai Jiao Tong University, Shanghai, China.
 - *2009.09 - 2012.06*, High school at Fuzhou No.1 High School, Fuzhou, China.
