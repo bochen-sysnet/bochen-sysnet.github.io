@@ -17,6 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+**Research Interests: Networking, ML systems, virtual reality, immersive/visual/spatial computing, and mobile/edge computing.**
+
+<span style="color: red; font-weight: bold;">I am now on job market (2024-2025). Feel free to ping me if you have any openings.</span>
+
+**Here is my [CV](images/CV.pdf), [Research Statement](images/research-statement.pdf), and [Teaching Statement](images/teaching-statement.pdf).** Contact: boc2 AT illinois DOT edu
+
+A list of useful resources for a tentative course on **"immersive computing with AI-system co-design"** [here](/resources/).
+
 This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) working with Prof. Klara Nahrstedt. I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara Nahrstedt. Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Xinbing Wang.
 
 I build immersive computing systems that support advanced Artificial Intelligence (AI) models with AI-system co-design:
@@ -44,15 +52,6 @@ Guided by AI-system co-design, my research advances immersive computing systems 
 - Reliable Gauge Reading [(MIPR'24)](https://ieeexplore.ieee.org/document/10707806)  
 - Quantization Rectification in Image Compression [(ICML'23 NCW)](https://arxiv.org/pdf/2403.17236)  
 - Reliable Underwater Image Transmission [(Arxiv'25)](https://arxiv.org/pdf/2502.10891)  
-
-
-**Research Interests: Networking, ML systems, virtual reality, immersive/visual/spatial computing, and mobile/edge computing.**
-
-<span style="color: red; font-weight: bold;">I am now on job market (2024-2025). Feel free to ping me if you have any openings.</span>
-
-**Here is my [CV](images/CV.pdf), [Research Statement](images/research-statement.pdf), and [Teaching Statement](images/teaching-statement.pdf).** Contact: boc2 AT illinois DOT edu
-
-I have compiled a list of useful resources for a tentative course on **"immersive computing with AI-system co-design"** [here](/resources/).
 
 
 # 🔥 News
