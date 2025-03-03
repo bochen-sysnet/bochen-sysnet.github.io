@@ -25,8 +25,8 @@ I build immersive computing systems that support advanced Artificial Intelligenc
 2. **AI-System Joint Design**: *Customized system optimization and adapt AI architecture or training to overcome performance degradation of AI systems*.
 
 Guided by the AI-system co-design, my research advances current immersive computing systems in:
-1. **Bandwidth Efficiency**: [NSDI'24](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf), [SenSys'24](https://dl.acm.org/doi/10.1145/3666025.3699324)
-2. **Photo-realism**: [MobiCom'25](https://www.sigmobile.org/mobicom/2025/cfp.html), [MobiSys'24](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879), [MobiSys'25](https://www.sigmobile.org/mobisys/2025/)
+1. **Bandwidth Efficiency**: [NSDI'24](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf), [SenSys'24](https://dl.acm.org/doi/10.1145/3666025.3699324), [MMSys'22](https://dl.acm.org/doi/10.1145/3524273.3528178), [ISM'20](https://ieeexplore.ieee.org/document/9327920)
+2. **Photo-realism**: [MobiCom'25](https://www.sigmobile.org/mobicom/2025/cfp.html), [MobiSys'25](https://www.sigmobile.org/mobisys/2025/), [MobiSys'24](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879)
 3. **Reliability**: [MMSys'24](https://dl.acm.org/doi/10.1145/3625468.3647621), [MIPR'24](https://ieeexplore.ieee.org/document/10707806), [ICML'23 NCW](https://arxiv.org/pdf/2403.17236)
 
 **Research Interests: Networking, operating systems, virtual reality, immersive/visual/spatial computing, and mobile computing.**
