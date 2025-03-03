@@ -29,7 +29,7 @@ Guided by the AI-system co-design, my research advances current immersive comput
 2. **Photo-realism**: [MobiCom'25](https://www.sigmobile.org/mobicom/2025/cfp.html), [MobiSys'25](https://www.sigmobile.org/mobisys/2025/), [HotMobile'25](https://hotmobile.org/2025/), [MobiSys'24](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879)
 3. **Reliability**: [MMSys'24](https://dl.acm.org/doi/10.1145/3625468.3647621), [MIPR'24](https://ieeexplore.ieee.org/document/10707806), [ICML'23 NCW](https://arxiv.org/pdf/2403.17236), [Arxiv'25](https://arxiv.org/pdf/2502.10891)
 
-**Research Interests: Networking, operating systems, virtual reality, immersive/visual/spatial computing, and mobile computing.**
+**Research Interests: Networking, ML systems, virtual reality, immersive/visual/spatial computing, and mobile/edge computing.**
 
 <span style="color: red; font-weight: bold;">I am now on job market (2024-2025). Feel free to ping me if you have any openings.</span>
 
