@@ -27,23 +27,23 @@ I build immersive computing systems that support advanced Artificial Intelligenc
 Guided by AI-system co-design, my research advances immersive computing systems in the following directions:
 
 ### **1. Efficiency**
-- [2D Video Streaming (NSDI'24)](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf)  
-- [Multi-view Video Streaming (SenSys'24)](https://dl.acm.org/doi/10.1145/3666025.3699324)  
-- [Visual Analytics Offloading (MMSys'22, Best Student Paper)](https://dl.acm.org/doi/10.1145/3524273.3528178)  
-- [360 Video Streaming (ISM'20, Best Paper Award)](https://ieeexplore.ieee.org/document/9327920)  
-- [Efficient LLM Serving with Cache (Arxiv'25)](https://arxiv.org/pdf/2502.20587)  
+- 2D Video Streaming [(NSDI'24)](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf)  
+- Multi-view Video Streaming [(SenSys'24)](https://dl.acm.org/doi/10.1145/3666025.3699324)  
+- Visual Analytics Offloading [(MMSys'22, Best Student Paper)](https://dl.acm.org/doi/10.1145/3524273.3528178)  
+- 360 Video Streaming [(ISM'20, Best Paper Award)](https://ieeexplore.ieee.org/document/9327920)  
+- Efficient LLM Serving with Cache [(Arxiv'25)](https://arxiv.org/pdf/2502.20587)  
 
 ### **2. Photo-realism**
-- [NeRF-based Video Streaming with Viewport Optimization (MobiCom'25)](https://www.sigmobile.org/mobicom/2025/cfp.html)  
-- [NeRF-based Video Streaming with Rate Adaptation (MobiSys'25)](https://www.sigmobile.org/mobisys/2025/)  
-- [3D Gaussian Splatting-based Video Streaming (HotMobile'25)](https://hotmobile.org/2025/)  
-- [NeRF-based 3D Content Serving (MobiSys'24)](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879)  
+- NeRF-based Video Streaming with Viewport Optimization [(MobiCom'25)](https://www.sigmobile.org/mobicom/2025/cfp.html)  
+- NeRF-based Video Streaming with Rate Adaptation [(MobiSys'25)](https://www.sigmobile.org/mobisys/2025/)  
+- 3D Gaussian Splatting-based Video Streaming [(HotMobile'25)](https://hotmobile.org/2025/)  
+- NeRF-based 3D Content Serving [(MobiSys'24)](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879)  
 
 ### **3. Reliability**
-- [Uncertainty in 2D Video Streaming (MMSys'24)](https://dl.acm.org/doi/10.1145/3625468.3647621)  
-- [Reliable Gauge Reading (MIPR'24)](https://ieeexplore.ieee.org/document/10707806)  
-- [Quantization Rectification in Image Compression (ICML'23 NCW)](https://arxiv.org/pdf/2403.17236)  
-- [Reliable Underwater Image Transmission (Arxiv'25)](https://arxiv.org/pdf/2502.10891)  
+- Uncertainty in 2D Video Streaming [(MMSys'24)](https://dl.acm.org/doi/10.1145/3625468.3647621)  
+- Reliable Gauge Reading [(MIPR'24)](https://ieeexplore.ieee.org/document/10707806)  
+- Quantization Rectification in Image Compression [(ICML'23 NCW)](https://arxiv.org/pdf/2403.17236)  
+- Reliable Underwater Image Transmission [(Arxiv'25)](https://arxiv.org/pdf/2502.10891)  
 
 
 **Research Interests: Networking, ML systems, virtual reality, immersive/visual/spatial computing, and mobile/edge computing.**
