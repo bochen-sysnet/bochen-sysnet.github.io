@@ -39,17 +39,17 @@ I have compiled a list of useful resources for a tentative course on **"immersiv
 
 
 # 🔥 News
-- *2025.3*: &nbsp;🎉🎉 Paper Accepted in ACM MobiSys'25, NeRFlow: Towards Adaptive Streaming for NeRF Videos.
-- *2025.1*: &nbsp;🎉🎉 Paper Accepted in ACM HotMobile'25, Advancing Immersive Content Delivery with Dynamic 3D Gaussian Splatting.
-- *2024.12*: &nbsp;🎉🎉 Paper Accepted in ACM MobiCom'25, NeVo: Advancing Volumetric Video Streaming with Neural Content Representation.
+- *2025.3*: &nbsp;🎉🎉 Paper Accepted in **ACM MobiSys'25**, NeRFlow: Towards Adaptive Streaming for NeRF Videos.
+- *2025.1*: &nbsp;🎉🎉 Paper Accepted in **ACM HotMobile'25**, Advancing Immersive Content Delivery with Dynamic 3D Gaussian Splatting.
+- *2024.12*: &nbsp;🎉🎉 Paper Accepted in **ACM MobiCom'25**, NeVo: Advancing Volumetric Video Streaming with Neural Content Representation.
 - *2024.12*: &nbsp;🎉🎉 Invited Talk at Shanghai Jiao Tong University, Advancing Immersive Computing with AI-System Co-design.
 - *2024.11*: &nbsp;🎉🎉 Invited Talk at UM-SJTU Joint Institute, Advancing Immersive Computing with AI-System Co-design.
-- *2024.09*: &nbsp;🎉🎉 Paper Accepted in ACM SenSys'24, ImmerScope: Multi-view Video Aggregation at Edge towards Immersive Content Services.
+- *2024.09*: &nbsp;🎉🎉 Paper Accepted in **ACM SenSys'24**, ImmerScope: Multi-view Video Aggregation at Edge towards Immersive Content Services.
 - *2024.04*: &nbsp;🎉🎉 Invited Talk at UIUC Sys-Net Spring 2024 Retreat, NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications.
 - *2024.03*: &nbsp;🎉🎉 Invited Talk at UT Dallas, Advancing Immersive Computing Systems in Age of Machine Learning.
-- *2024.03*: &nbsp;🎉🎉 Paper Accepted in ACM MobiSys'24, NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications.
-- *2024.01*: &nbsp;🎉🎉 Paper Accepted in ACM MMSys'24, Learning to Manage Uncertainty in Video Streaming.
-- *2023.12*: &nbsp;🎉🎉 Paper Accepted in USENIX NSDI'24, LiFteR: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing.
+- *2024.03*: &nbsp;🎉🎉 Paper Accepted in **ACM MobiSys'24**, NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications.
+- *2024.01*: &nbsp;🎉🎉 Paper Accepted in **ACM MMSys'24**, Learning to Manage Uncertainty in Video Streaming.
+- *2023.12*: &nbsp;🎉🎉 Paper Accepted in **USENIX NSDI'24**, LiFteR: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing.
 
 # 📝 Selected Publications 
 
