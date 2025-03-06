@@ -23,7 +23,7 @@ redirect_from:
 
 **Here is my [CV](images/CV.pdf), [Research Statement](images/research-statement.pdf), and [Teaching Statement](images/teaching-statement.pdf).** 
 
-**Contact: **<span style="color: red; font-weight: bold;">boc2@illinois.edu</span> or <span style="color: red; font-weight: bold;">bochen1993cs@gmail.com</span>
+**Contact:**<span style="color: red; font-weight: bold;">boc2@illinois.edu</span> or <span style="color: red; font-weight: bold;">bochen1993cs@gmail.com</span>
 
 A list of useful resources for a tentative course on **"immersive computing with AI-system co-design"** [here](/resources/).
 
