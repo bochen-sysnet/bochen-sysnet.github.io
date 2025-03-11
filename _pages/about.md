@@ -57,9 +57,9 @@ Guided by AI-system co-design, my research advances immersive computing systems 
 
 
 # 🔥 News
-- *2025.3*: &nbsp;🎉🎉 Paper Conditionally Accepted in **ACM MobiSys'25**, NeRFlow: Towards Adaptive Streaming for NeRF Videos.
+- *2025.3*: &nbsp;🎉🎉 One Paper Conditionally Accepted in **ACM MobiSys'25**.
 - *2025.1*: &nbsp;🎉🎉 Paper Accepted in **ACM HotMobile'25**, Advancing Immersive Content Delivery with Dynamic 3D Gaussian Splatting.
-- *2024.12*: &nbsp;🎉🎉 Paper Accepted in **ACM MobiCom'25**, NeVo: Advancing Volumetric Video Streaming with Neural Content Representation.
+- *2024.12*: &nbsp;🎉🎉 One Paper Accepted in **ACM MobiCom'25**.
 - *2024.12*: &nbsp;🎉🎉 Invited Talk at Shanghai Jiao Tong University, Advancing Immersive Computing with AI-System Co-design.
 - *2024.11*: &nbsp;🎉🎉 Invited Talk at UM-SJTU Joint Institute, Advancing Immersive Computing with AI-System Co-design.
 - *2024.09*: &nbsp;🎉🎉 Paper Accepted in **ACM SenSys'24**, ImmerScope: Multi-view Video Aggregation at Edge towards Immersive Content Services.
