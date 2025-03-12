@@ -83,8 +83,8 @@ Guided by AI-system co-design, my research advances immersive computing systems 
 </div>
 </div> -->
 
-- [**MobiSys 2025**] Rui-xiao Zhang, Tianchi Huang, **Bo Chen**, Klara Nahrstedt, "NeRFlow: Towards Adaptive Streaming for NeRF Videos"
-- [**MobiCom 2025**] Nan Wu, **Bo Chen**, Ruizhi Cheng, Klara Nahrstedt, Bo Han, "NeVo: Advancing Volumetric Video Streaming with Neural Content Representation"
+<!-- - [**MobiSys 2025**] Rui-xiao Zhang, Tianchi Huang, **Bo Chen**, Klara Nahrstedt, "NeRFlow: Towards Adaptive Streaming for NeRF Videos"
+- [**MobiCom 2025**] Nan Wu, **Bo Chen**, Ruizhi Cheng, Klara Nahrstedt, Bo Han, "NeVo: Advancing Volumetric Video Streaming with Neural Content Representation" -->
 - [**SenSys 2024**] **Bo Chen**, Hongpeng Guo, Mingyuan Wu, Zhe Yang, Zhisheng Yan, Klara Nahrstedt, [ImmerScope: Multi-view Video Aggregation at Edge towards Immersive Content Services](https://dl.acm.org/doi/10.1145/3666025.3699324)
 - [**NSDI 2024**] **Bo Chen**, Zhisheng Yan, Yinjie Zhang, Zhe Yang, Klara Nahrstedt, [LiFteR: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf)
 - [**MobiSys 2024**] **Bo Chen**, Zhisheng Yan, Bo Han, Klara Nahrstedt, [NeRFHub: A Context-Aware NeRF Serving Framework for Mobile Immersive Applications](https://dl.acm.org/doi/pdf/10.1145/3643832.3661879)
