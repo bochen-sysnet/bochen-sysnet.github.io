@@ -25,7 +25,7 @@ redirect_from:
 
 **Contact:**<span style="color: red; font-weight: bold;">boc2@illinois.edu</span> or <span style="color: red; font-weight: bold;">bochen1993cs@gmail.com</span>
 
-A list of useful resources for a tentative course on **"immersive computing with AI-system co-design"** [here](/resources/).
+[A list of useful resources](/resources/) for a tentative course on **"immersive computing with AI-system co-design"**.
 
 This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) working with Prof. Klara Nahrstedt. I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara Nahrstedt. Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Xinbing Wang.
 
