@@ -21,7 +21,7 @@ redirect_from:
 
 <span style="color: red; font-weight: bold;">I am now on job market (2024-2025). Feel free to ping me if you have any openings.</span>
 
-**Here is my [CV](images/CV.pdf), [Research Statement](images/research-statement.pdf), and [Teaching Statement](images/teaching-statement.pdf).** 
+**Here is my [CV (Updated Mar 2025)](images/CV.pdf), [Research Statement](images/research-statement.pdf), and [Teaching Statement](images/teaching-statement.pdf).** 
 
 **Contact:**<span style="color: red; font-weight: bold;">boc2@illinois.edu</span> or <span style="color: red; font-weight: bold;">bochen1993cs@gmail.com</span>
 
