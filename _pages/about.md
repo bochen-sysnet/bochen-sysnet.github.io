@@ -57,6 +57,7 @@ Guided by AI-system co-design, my research advances immersive computing systems 
 
 
 # 🔥 News
+- *2025.5*: &nbsp;🎉🎉 Recognized as one of the **MobiSys'25 Rising Star**.
 - *2025.3*: &nbsp;🎉🎉 One Paper Conditionally Accepted in **ACM MobiSys'25**.
 - *2025.1*: &nbsp;🎉🎉 Paper Accepted in **ACM HotMobile'25**, Advancing Immersive Content Delivery with Dynamic 3D Gaussian Splatting.
 - *2024.12*: &nbsp;🎉🎉 One Paper Accepted in **ACM MobiCom'25**.
