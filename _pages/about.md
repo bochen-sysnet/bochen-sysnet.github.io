@@ -57,6 +57,7 @@ Guided by AI-system co-design, my research advances immersive computing systems 
 
 
 # 🔥 News
+- *2025.6*: &nbsp;🎉🎉 Selected as one of the **Rising Star Best Presentation**.
 - *2025.5*: &nbsp;🎉🎉 Recognized as one of the **MobiSys'25 Rising Star**.
 - *2025.3*: &nbsp;🎉🎉 One Paper Conditionally Accepted in **ACM MobiSys'25**.
 - *2025.1*: &nbsp;🎉🎉 Paper Accepted in **ACM HotMobile'25**, Advancing Immersive Content Delivery with Dynamic 3D Gaussian Splatting.
@@ -96,6 +97,8 @@ Guided by AI-system co-design, my research advances immersive computing systems 
 
 
 # 🎖 Honors and Awards
+- *2025.6*: Rising Star Best Presentation Award (ACM MobiSys 2025).
+- *2025.5*: Rising Star (ACM MobiSys 2025).
 - *2022.06* Best Student Paper Award (ACM MMSys 2022).
 - *2020.12* Best Paper Award (IEEE ISM 2022).
 - *2019.06* SIGMM Travel Grant (ACM MMSys 2019).
