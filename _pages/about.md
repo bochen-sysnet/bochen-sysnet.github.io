@@ -57,6 +57,7 @@ Guided by AI-system co-design, my research advances immersive computing systems 
 
 
 # 🔥 News
+- *2025.8*: &nbsp;🎉🎉 Received the **Best Student Paper Award** at IEEE MIPR 2025.
 - *2025.6*: &nbsp;🎉🎉 Selected as one of the **Rising Star Best Presentation**.
 - *2025.5*: &nbsp;🎉🎉 Recognized as one of the **MobiSys'25 Rising Star** for Intelligent Network Infrastructure for Extended Reality.
 - *2025.3*: &nbsp;🎉🎉 One Paper Conditionally Accepted in **ACM MobiSys'25**.
@@ -97,6 +98,7 @@ Guided by AI-system co-design, my research advances immersive computing systems 
 
 
 # 🎖 Honors and Awards
+- *2025.8*: Best Student Paper Award (IEEE MIPR 2025)
 - *2025.6*: Rising Star Best Presentation Award (ACM MobiSys 2025).
 - *2025.5*: Rising Star (ACM MobiSys 2025).
 - *2022.06* Best Student Paper Award (ACM MMSys 2022).
