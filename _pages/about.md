@@ -17,31 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Research Interests: Networking, ML systems, virtual reality, immersive/visual/spatial computing, and mobile/edge computing.**
-
-<span style="color: red; font-weight: bold;">I am now on job market (2024-2025). Feel free to ping me if you have any openings.</span>
-
-**Here is my [CV (Updated Mar 2025)](images/CV.pdf), [Research Statement](images/research-statement.pdf), and [Teaching Statement](images/teaching-statement.pdf).** 
+I am an incoming Tenure-Track Associate Professor of Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU).
+Currently, I am working as a postdoc at University of Illinois at Urbana-Champaign (UIUC) with Prof. Klara Nahrstedt since 2022. 
+I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara Nahrstedt. 
+Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Xinbing Wang.
+I was recognized as the **MobiSys'25 Rising Star** for Intelligent Network Infrastructure for Extended Reality.
 
 **Contact:**<span style="color: red; font-weight: bold;">boc2 at illinois dot edu</span>
 
-[A list of useful resources](/resources/) for a tentative course on **"immersive computing with AI-system co-design"**.
+**Hiring: I am actively hiring students at all levels (Ph.D., M.S., and Undergrad) to work with me starting for 2026 Fall and beyond. Please feel free to drop me an email with your CV and research interests if you are interested in working with me.**
 
-This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) working with Prof. Klara Nahrstedt. I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara Nahrstedt. Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Xinbing Wang.
+<!-- <span style="color: red; font-weight: bold;">I am now on job market (2024-2025). Feel free to ping me if you have any openings.</span> -->
 
-I build immersive computing systems that support advanced Artificial Intelligence (AI) models with AI-system co-design:
+<!-- **Here is my [CV (Updated Mar 2025)](images/CV.pdf), [Research Statement](images/research-statement.pdf), and [Teaching Statement](images/teaching-statement.pdf).**  -->
 
-1. **AI-for-Immersion Insight**: *Identifying insights from Artificial Intelligence (AI) techniques to overcome the limitation of traditional immersive computing systems*.
-2. **AI-System Joint Design**: *Customized system optimization and adapt AI architecture or training to overcome performance degradation of AI systems*.
+<!-- [A list of useful resources](/resources/) for a tentative course on **"immersive computing with AI-system co-design"**. -->
 
-Guided by AI-system co-design, my research advances immersive computing systems in the following directions:
+**Research Interests:**
+I build Immersive Computing Systems by co-designing ML and System aspects with research interests in Networking, ML Systems, Virtual Reality, Immersive Computing, and Mobile Computing. My past research advances the following directions in immersive computing:
 
 ### **1. Efficiency**
-- 2D Video Streaming [(NSDI'24)](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf)  
-- Multi-view Video Streaming [(SenSys'24)](https://dl.acm.org/doi/10.1145/3666025.3699324)  
-- Visual Analytics Offloading [(MMSys'22, Best Student Paper)](https://dl.acm.org/doi/10.1145/3524273.3528178)  
-- 360 Video Streaming [(ISM'20, Best Paper Award)](https://ieeexplore.ieee.org/document/9327920)  
-- Efficient LLM Serving with Cache [(Arxiv'25)](https://arxiv.org/pdf/2502.20587)  
+- 2D Video Streaming with Neural Codec [(NSDI'24)](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf)  
+- Multi-view Video Streaming with Asymmetric Neural Codec [(SenSys'24)](https://dl.acm.org/doi/10.1145/3666025.3699324)  
+- Visual Analytics Offloading with Context-aware Compression [(MMSys'22, Best Student Paper)](https://dl.acm.org/doi/10.1145/3524273.3528178)  
+- 360 Video Streaming with Semantic View Prediction [(ISM'20, Best Paper Award)](https://ieeexplore.ieee.org/document/9327920)  
+- LLM Serving with Cache [(EMNLP'25)](https://arxiv.org/pdf/2502.20587)  
+- Image Segmentation with Back Tracking [(MIPR'25, Best Student Paper Award)](https://arxiv.org/pdf/2406.14874)
 
 ### **2. Photo-realism**
 - NeRF-based Video Streaming with Viewport Optimization [(MobiCom'25)](https://www.sigmobile.org/mobicom/2025/cfp.html)  
