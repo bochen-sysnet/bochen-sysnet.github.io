@@ -17,15 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# Biography
 I am an incoming Tenure-Track Associate Professor of Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU).
 Currently, I am working as a postdoc at University of Illinois at Urbana-Champaign (UIUC) with Prof. Klara Nahrstedt since 2022. 
 I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara Nahrstedt. 
 Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Xinbing Wang.
 I was recognized as the **MobiSys'25 Rising Star** for Intelligent Network Infrastructure for Extended Reality.
 
-**Contact:**<span style="color: red; font-weight: bold;">boc2 at illinois dot edu</span>
+**Contact:** <span style="color: red; font-weight: bold;">boc2 at illinois dot edu</span>
 
-**Hiring: I am actively hiring students at all levels (Ph.D., M.S., and Undergrad) to work with me starting for 2026 Fall and beyond. Please feel free to drop me an email with your CV and research interests if you are interested in working with me.**
+# Hiring
+I am actively hiring students at all levels (Ph.D., M.S., and Undergrad) to work with me starting for 2026 Fall and beyond. Please feel free to drop me an email with your CV and research interests if you are interested in working with me.
 
 <!-- <span style="color: red; font-weight: bold;">I am now on job market (2024-2025). Feel free to ping me if you have any openings.</span> -->
 
@@ -33,8 +35,9 @@ I was recognized as the **MobiSys'25 Rising Star** for Intelligent Network Infra
 
 <!-- [A list of useful resources](/resources/) for a tentative course on **"immersive computing with AI-system co-design"**. -->
 
-**Research Interests:**
-I build Immersive Computing Systems by co-designing ML and System aspects with research interests in Networking, ML Systems, Virtual Reality, Immersive Computing, and Mobile Computing. My past research advances the following directions in immersive computing:
+# Research Interests
+My research interests include but are not limited to Networking, ML Systems, Virtual Reality, Immersive Computing, and Mobile Computing.
+In the past, I build Immersive Computing Systems by co-designing ML and System aspects, which advances the following directions in immersive computing:
 
 ### **1. Efficiency**
 - 2D Video Streaming with Neural Codec [(NSDI'24)](https://www.usenix.org/system/files/nsdi24-chen-bo.pdf)  
