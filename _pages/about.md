@@ -36,7 +36,7 @@ I am actively hiring students at all levels (Ph.D., M.S., and Undergrad) to work
 <!-- [A list of useful resources](/resources/) for a tentative course on **"immersive computing with AI-system co-design"**. -->
 
 # Research Interests
-My research interests include but are not limited to Networking, ML Systems, Virtual Reality, Immersive Computing, and Mobile Computing.
+My research interests include but are not limited to **Networking, ML Systems, Virtual Reality, Immersive Computing, and Mobile Computing**.
 In the past, I build Immersive Computing Systems by co-designing ML and System aspects, which advances the following directions in immersive computing:
 
 ### **1. Efficiency**
