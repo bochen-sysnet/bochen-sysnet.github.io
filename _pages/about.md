@@ -27,7 +27,7 @@ I was recognized as the **MobiSys'25 Rising Star** for Intelligent Network Infra
 **Contact:** <span style="color: red; font-weight: bold;">boc2 at illinois dot edu</span>
 
 # Hiring
-I am actively hiring students at all levels (Ph.D., M.S., and Undergrad) to work with me starting from 2026 Fall and beyond. Please feel free to drop me an email with your CV and research interests if you are interested in working with me.
+I am actively hiring students at all levels (Ph.D., M.S., and Undergrad) to work with me starting from 2026 Fall and beyond. Please feel free to drop me an email with your CV and research interests if you are interested in working with me. Read more [here](/hiring/).
 
 <!-- <span style="color: red; font-weight: bold;">I am now on job market (2024-2025). Feel free to ping me if you have any openings.</span> -->
 
