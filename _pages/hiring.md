@@ -1,3 +1,9 @@
+---
+layout: hiring
+title: "Hiring"
+permalink: /hiring/
+---
+
 ## Student Hiring (Ph.D. / M.S. / Undergraduate)
 
 **Bo Chen** will join the **Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU)** as a **Tenure-Track Associate Professor** in **Fall 2026**.  
