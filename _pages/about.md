@@ -24,7 +24,7 @@ I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara 
 Before coming to UIUC, I got my B.E. degree from **Shanghai Jiao Tong University (SJTU)**.
 I was recognized as the **MobiSys'25 Rising Star** for Intelligent Network Infrastructure for Extended Reality and the IEEE TCMC 2026 Rising Star.
 
-**Contact:** <span style="color: red; font-weight: bold;">boc2 at illinois dot edu</span>
+**Contact:** <span style="color: red; font-weight: bold;">BIAS at sjtu dot edu dot cn</span>
 
 # Hiring
 I am actively hiring students at all levels (Ph.D., M.S., and Undergrad) to work with me starting from 2026 Fall and beyond. Please feel free to drop me an email with your CV and research interests if you are interested in working with me. [Read more](/hiring/).
