@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
-I am an incoming Tenure-Track Associate Professor of Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU).
-Currently, I am working as a postdoc at **University of Illinois at Urbana-Champaign (UIUC)** with Prof. Klara Nahrstedt since 2022. 
+I am a Tenure-Track Associate Professor of Department of Computer Science and Engineering at Shanghai Jiao Tong University (SJTU).
+Previously, I was working as a postdoc at **University of Illinois at Urbana-Champaign (UIUC)** with Prof. Klara Nahrstedt since 2022. 
 I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara Nahrstedt. 
-Before coming to UIUC, I got my B.E. degree from **Shanghai Jiao Tong University (SJTU)**, under the supervision of Prof. Xinbing Wang.
-I was recognized as the **MobiSys'25 Rising Star** for Intelligent Network Infrastructure for Extended Reality.
+Before coming to UIUC, I got my B.E. degree from **Shanghai Jiao Tong University (SJTU)**.
+I was recognized as the **MobiSys'25 Rising Star** for Intelligent Network Infrastructure for Extended Reality and the IEEE TCMC 2026 Rising Star.
 
 **Contact:** <span style="color: red; font-weight: bold;">boc2 at illinois dot edu</span>
 
@@ -61,6 +61,9 @@ In the past, I build Immersive Computing Systems by co-designing ML and System a
 
 
 # 🔥 News
+- *2026.7*: &nbsp;🎉🎉 One Paper Accepted in **ICNP‘26**, GSSR-Stream: Practical Super-resolution Enhanced 3DGS Video Streaming.
+- *2026.4*: &nbsp;🎉🎉 One Paper Accepted in **ACM Mobisys‘26**, AquaScope: Reliable Underwater Image Transmission on Mobile Devices.
+- *2025.12*: &nbsp;🎉🎉 One Paper Accepted in **CVPR‘26**, CaT-GS: Efficient 3DGS Rendering for Large Scale Scenes via Inter-frame Caching and Tile Scheduling.
 - *2025.8*: &nbsp;🎉🎉 Received the **Best Student Paper Award** at IEEE MIPR 2025.
 - *2025.6*: &nbsp;🎉🎉 Selected as one of the **Rising Star Best Presentation**.
 - *2025.5*: &nbsp;🎉🎉 Recognized as one of the **MobiSys'25 Rising Star** for Intelligent Network Infrastructure for Extended Reality.
@@ -102,6 +105,7 @@ In the past, I build Immersive Computing Systems by co-designing ML and System a
 
 
 # 🎖 Honors and Awards
+- *2026.7*: Rising Star Award (IEEE TCMC 2026)
 - *2025.8*: Best Student Paper Award (IEEE MIPR 2025)
 - *2025.6*: Rising Star Best Presentation Award (ACM MobiSys 2025).
 - *2025.5*: Rising Star (ACM MobiSys 2025).
@@ -111,7 +115,6 @@ In the past, I build Immersive Computing Systems by co-designing ML and System a
  
 
 # 📖 Educations
-- *2022.07 - 2025.03 (now)*, Postdoctoral Research Associate at University of Illinois at Urbana-Champaign, Champaign, IL, USA.
 - *2016.09 - 2022.05*, Ph.D. at University of Illinois at Urbana-Champaign, Champaign, IL, USA.
 - *2012.09 - 2016.06*, B.S. at Shanghai Jiao Tong University, Shanghai, China.
 - *2009.09 - 2012.06*, High school at Fuzhou No.1 High School, Fuzhou, China.
@@ -130,6 +133,6 @@ In the past, I build Immersive Computing Systems by co-designing ML and System a
 
 
 # 💬 Services
-- *Reviewer*, 2025: ACM MM, ACM TOMM, IEEE TMM, 2024: ACM MM, IEEE ICCCN, ACM TOMM, 2023: ACM MM, ACM MMSys, ACM TOMM. 
+- *Reviewer*, 2026: IEEE TON, 2025: IEEE TON, ACM MM, ACM TOMM, IEEE TMM, 2024: ACM MM, IEEE ICCCN, ACM TOMM, 2023: ACM MM, ACM MMSys, ACM TOMM. 
 - *TPC Member*, 2025: ACM MMSys, 2024: ACM MMSys, 2023: SEC, ImmerCOM.
 - *Publication Chair*, 2024: [NSF Workshop on Sustainable Computing for Sustainability](https://edas.info/web/nsf-wscs24/index.html), 2023: IEEE SECON. 
